@@ -1,1 +1,1 @@
-highe level programming
+higher level programming
